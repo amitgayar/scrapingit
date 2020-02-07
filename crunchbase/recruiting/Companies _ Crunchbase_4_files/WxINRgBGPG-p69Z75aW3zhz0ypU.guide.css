@@ -1,0 +1,148 @@
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U {
+  /* --- CSS for This Template --- */
+  /* --- Selectors from Global CSS --- */
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-content-container_ {
+  text-align: center;
+  display: block;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-image_ {
+  margin: 20px 0 0 0;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-primary-label_ {
+  margin: 0 0 15px 0;
+  font-size: 22px;
+  font-weight: 500;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-secondary-action-button_,
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-primary-action-button_ {
+  padding: 8px 20px 8px 20px;
+  margin-right: 10px;
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-secondary-action-button_ {
+  background-color: #262d36;
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  border-radius: 2px;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-secondary-action-button_:hover {
+  background-color: #007a78;
+  border: 1px solid #007a78;
+  color: #262d36;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-primary-action-button_ {
+  background-color: #40d2d0;
+  border: 1px solid #40d2d0;
+  border-radius: 2px;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-primary-action-button_:hover {
+  background-color: #007a78;
+  border: 1px solid #007a78;
+  color: #262d36;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-rich-text-content_ {
+  margin: 20px 20px 20px 20px;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-paragraph-text_ {
+  margin: 0 0 20px 0;
+  padding: 0 50px 0 50px;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 300;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-spacer_ {
+  margin-top: 40px;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-container_ {
+  /* -- Guide border, shadow, background, etc. -- */
+  background-color: #262d36;
+  border: 0px solid #262d36;
+  padding: 00px;
+  color: white;
+  font-size: 16px;
+  font-weight: normal;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-container_ ._pendo-guide-content_ {
+  /* -- Content area -- use for font attributes, padding, etc. */
+  text-align: left;
+  padding: 0;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-container_ ._pendo-close-guide_ {
+  /* Close guide icon */
+  display: inline;
+  font-size: 26px;
+  font-weight: 100;
+  top: 11px;
+  right: 19px;
+  color: #fff;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-container_ ._pendo-close-guide_:hover {
+  /* Close guide icon hover effects*/
+  color: #999;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-arrow_,
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-arrow-border_ {
+  position: absolute;
+  font-size: 0;
+  line-height: 0;
+  margin: 0;
+  width: 0;
+  height: 0;
+  padding: 0;
+  border-style: solid;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-arrow-top_,
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-arrow-border-top_ {
+  border-top: 0;
+  border-left-color: transparent;
+  border-right-color: transparent;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-arrow-left_,
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-arrow-border-left_ {
+  border-left: 0;
+  border-top-color: transparent;
+  border-bottom-color: transparent;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-arrow-right_,
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-arrow-border-right_ {
+  border-right: 0;
+  border-top-color: transparent;
+  border-bottom-color: transparent;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-arrow-bottom_,
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-arrow-border-bottom_ {
+  border-bottom: 0;
+  border-right-color: transparent;
+  border-left-color: transparent;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-arrow_ {
+  z-index: 100;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-arrow-top_ {
+  border-bottom-color: #262d36;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-arrow-left_ {
+  border-right-color: #262d36;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-arrow-right_ {
+  border-left-color: #262d36;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-arrow-bottom_ {
+  border-top-color: #262d36;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-arrow-border-top_ {
+  border-bottom-color: #262d36;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-arrow-border-left_ {
+  border-right-color: #262d36;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-arrow-border-right_ {
+  border-left-color: #262d36;
+}
+#_pendo_g_a8GCmbYJJbx23e6uGZhABMA1W6U ._pendo-guide-arrow-border-bottom_ {
+  border-top-color: #262d36;
+}
